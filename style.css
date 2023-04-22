@@ -93,6 +93,12 @@ nav a{
     border-radius: 20px;
 }
 
+.card img{
+    border-radius: 30px;
+    margin-top: 20px;
+    height: 350px;
+}
+
 .card:hover{
     transform: scale(1.1);
 }
